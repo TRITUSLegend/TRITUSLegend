@@ -6,14 +6,15 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=IoT+Intern+%40+Perennial+Systems;Passionate+Full-Stack+Developer;Smart+Home+Simulator+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=IoT+Intern+%40+Perennial+Systems;Passionate+%7C+Curious+%7C+Relentless+Coder" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ## 🎯 Internship
 **IoT Intern** @ **Perennial Systems Pvt. Ltd.**  
-- Developed real-time ESP32-based simulations using Wokwi, Firebase, and Node-RED  
+- Developed real-time ESP32-based simulations using Wokwi, ThingSpeak, and Node-RED  
 - Built MQTT-powered control and monitoring for smart rooms  
 - Engineered auto-off logic, motion-triggered devices, and synced dashboard control
 
@@ -26,14 +27,14 @@
   - 🔌 Embedded & IoT simulations with ESP32, Wokwi, Node-RED
   - 🧠 DSA & Problem Solving
   - 🌐 Full-Stack Web Development
-- 🚀 Currently Building: Smart Home Automation with MQTT & Firebase
+- 🚀 Currently Building: Smart Home Automation with MQTT & ThingSpeak
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,firebase,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,thingspeak,arduino,git,github" />
 </p>
 
 ---
@@ -41,7 +42,7 @@
 ## 📌 Featured Projects
 
 ### 🏡 Smart Home Automation (IoT Simulation)
-Full simulation of motion-based LEDs, remote fan control, and real-time Firebase updates.
+Full simulation of Temperature and Humidity monitoring, and real-time ThingSpeak updates.
 
 🔗 [View on GitHub](https://github.com/TRITUSLegend/smart-home-automation)
 
@@ -72,7 +73,7 @@ Full simulation of motion-based LEDs, remote fan control, and real-time Firebase
 
 ## 🔗 Let's Connect
 
-- 📧 [Email](mailto:adityarajkar.dev@gmail.com)
+- 📧 [Email](mailto:adityarajkar1105@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/adityarajkar)
 - 🌍 [GitHub](https://github.com/TRITUSLegend)
 
