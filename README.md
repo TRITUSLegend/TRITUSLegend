@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=IoT+Intern+%40+Perennial+Systems;Passionate+%7C+Curious+%7C+Relentless+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=IoT+Intern+%40+Perennial+Systems;Passionate+%7C+Curious+%7C+Relentless+Coder" alt="Typing SVG" />
 </p>
+
 
 
 ---
