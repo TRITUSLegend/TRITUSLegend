@@ -52,8 +52,8 @@ Full simulation of Temperature and Humidity monitoring, and real-time ThingSpeak
 ## 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRITUSLegend&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRITUSLegend&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TRITUSLegend&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRITUSLegend&layout=compact&theme=radical&langs_count=8" height="180px"/>
 </p>
 
 ---
