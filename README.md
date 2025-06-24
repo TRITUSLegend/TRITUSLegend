@@ -42,7 +42,7 @@
 
 ## 📌 Featured Projects
 
-### 🏡 Smart Home Automation (IoT Simulation)
+### 🌡️ Temp. and Humidity Real time Monitoring
 Full simulation of Temperature and Humidity monitoring, and real-time ThingSpeak updates.
 
 🔗 [View on GitHub](https://github.com/TRITUSLegend/TRITUSLegend-Temp.-and-Humidity-Real-time-Monitoring)
@@ -72,11 +72,26 @@ Full simulation of Temperature and Humidity monitoring, and real-time ThingSpeak
 
 ---
 
-## 🔗 Let's Connect
+## 🤝 Let's Connect
 
-- 📧 [Email](mailto:adityarajkar1105@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/adityarajkar)
-- 🌍 [GitHub](https://github.com/TRITUSLegend)
+<a href="mailto:adityarajkar1105@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adityarajkar/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/TRITUSLegend" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+</a>
+
+---
+
+## 💻 My Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/TRITUSLegend/)
+- [Coding Ninjas – Code360](https://www.naukri.com/code360/profile/arkcode)
 
 ---
 
