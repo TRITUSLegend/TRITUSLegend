@@ -45,7 +45,7 @@
 ### 🏡 Smart Home Automation (IoT Simulation)
 Full simulation of Temperature and Humidity monitoring, and real-time ThingSpeak updates.
 
-🔗 [View on GitHub](https://github.com/TRITUSLegend/smart-home-automation)
+🔗 [View on GitHub](https://github.com/TRITUSLegend/TRITUSLegend-Temp.-and-Humidity-Real-time-Monitoring)
 
 ---
 
