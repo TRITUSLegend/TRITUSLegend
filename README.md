@@ -35,17 +35,33 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,firebase,arduino,git,github" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌡️ Temp. and Humidity Real time Monitoring
-Full simulation of Temperature and Humidity monitoring, and real-time ThingSpeak updates.
+### 🏠 Smart Room IoT Dashboard
+An ESP32-based home automation simulation built using Wokwi, Firebase Realtime Database, and a live web dashboard. Features real-time temperature monitoring, motion-activated lighting, and remote fan control with Firebase-based syncing.
 
-🔗 [View on GitHub](https://github.com/TRITUSLegend/TRITUSLegend-Temp.-and-Humidity-Real-time-Monitoring)
+🔗 [GitHub Repository](https://github.com/TRITUSLegend/smart-room-dashboard)  
+🔗 [Live Dashboard](https://trituslegend.github.io/smart-room-dashboard/)
+
+---
+
+### 🚍 Bus Credit System (BCS)
+A full-stack solution developed for the IEEE-CS Hack Battle, VIT. It tracks and updates student bus credits based on usage. Includes a user-friendly interface and integrates secure authentication.
+
+🔗 [GitHub Repository](https://github.com/TRITUSLegend/Bus-Credit-System-BCS-)
+
+---
+
+### 🌡️ Temp. and Humidity Real time Monitoring
+Full simulation of temperature and humidity monitoring using ESP32 and DHT sensor. Real-time data visualization on ThingSpeak.
+
+🔗 [GitHub Repository](https://github.com/TRITUSLegend/Temp.-and-Humidity-Real-time-Monitoring)
+
 
 ---
 
