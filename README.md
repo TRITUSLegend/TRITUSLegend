@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aditya Raj Kar</h1>
 <p align="center">
-  <em>B.Tech CSE (IoT) Student @VIT-Vellore | Aspiring Software Engineer | Cyber Security Enthusiast</em>
+  <em>B.Tech CSE (IoT) Student @VIT-Vellore | Aspiring Software Engineer </em>
 </p>
 
 ---
@@ -28,7 +28,6 @@
   - 🔌 Embedded & IoT simulations with ESP32, Wokwi, Node-RED
   - 🧠 DSA & Problem Solving
   - 🌐 Full-Stack Web Development
-- 🚀 Currently Building: Smart Home Automation with MQTT & ThingSpeak
 
 ---
 
@@ -57,10 +56,10 @@ A full-stack solution developed for the IEEE-CS Hack Battle, VIT. It tracks and 
 
 ---
 
-### 🌡️ Temp. and Humidity Real time Monitoring
-Full simulation of temperature and humidity monitoring using ESP32 and DHT sensor. Real-time data visualization on ThingSpeak.
+### 👁️ Fog-Assisted Real-Time Human Occupancy & Intrusion Detection System
+A fog and edge computing based smart surveillance system using ESP32, OpenCV, MobileNet-SSD, and MQTT. The system performs real-time human detection, occupancy counting, and intrusion monitoring by combining IoT sensor data with AI-powered computer vision. Features adaptive confidence fusion, automated evidence capture, live MQTT dashboard reporting, and dynamic environmental sensitivity adjustment for low-latency intelligent monitoring.
 
-🔗 [GitHub Repository](https://github.com/TRITUSLegend/Temp.-and-Humidity-Real-time-Monitoring)
+🔗 [GitHub Repository](https://github.com/TRITUSLegend/Fog-Intrusion-Detection-System)
 
 
 ---
@@ -108,6 +107,7 @@ Full simulation of temperature and humidity monitoring using ESP32 and DHT senso
 
 - [LeetCode](https://leetcode.com/u/TRITUSLegend/)
 - [Coding Ninjas – Code360](https://www.naukri.com/code360/profile/arkcode)
+- [Neetcode](https://neetcode.io/profile)
 
 ---
 
