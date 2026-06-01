@@ -71,22 +71,33 @@ An ESP32-based home automation simulation built using Wokwi, Firebase Realtime D
 ## 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRITUSLegend&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRITUSLegend&layout=compact&theme=radical&langs_count=8" height="180px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRITUSLegend&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRITUSLegend&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"/>
 </p>
 
 ---
 
-## ✨ GitHub Trophies
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TRITUSLegend&theme=dracula&column=6" />
+  <img src="https://streak-stats.demolab.com?user=TRITUSLegend&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## ⏳ Contribution Graph
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TRITUSLegend&theme=react-dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TRITUSLegend&theme=dracula&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TRITUSLegend&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
