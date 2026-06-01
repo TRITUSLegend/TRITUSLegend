@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Passionate+%7C+Curious+%7C+Relentless+Coder" alt="Typing SVG" />
 </p>
 
-
-
-
 ---
 
 ## 🎯 Internship
@@ -42,18 +39,10 @@
 
 ## 📌 Featured Projects
 
-### 🏠 Smart Room IoT Dashboard
-An ESP32-based home automation simulation built using Wokwi, Firebase Realtime Database, and a live web dashboard. Features real-time temperature monitoring, motion-activated lighting, and remote fan control with Firebase-based syncing.
+### 🚍 BusIT
+A full-stack smart campus transportation payment system built with Next.js, Prisma, PostgreSQL, and NextAuth. Features QR-based fare payments, digital wallets, transaction history, role-based access control, and automated email receipts.
 
-🔗 [GitHub Repository](https://github.com/TRITUSLegend/smart-room-dashboard)  
-🔗 [Live Dashboard](https://trituslegend.github.io/smart-room-dashboard/)
-
----
-
-### 🚍 Bus Credit System (BCS)
-A full-stack solution developed for the IEEE-CS Hack Battle, VIT. It tracks and updates student bus credits based on usage. Includes a user-friendly interface and integrates secure authentication.
-
-🔗 [GitHub Repository](https://github.com/TRITUSLegend/Bus-Credit-System-BCS-)
+🔗 [GitHub Repository](https://github.com/TRITUSLegend/busit-web)
 
 ---
 
@@ -62,6 +51,20 @@ A fog and edge computing based smart surveillance system using ESP32, OpenCV, Mo
 
 🔗 [GitHub Repository](https://github.com/TRITUSLegend/Fog-Intrusion-Detection-System)
 
+---
+
+### 📊 OpinionMap – Multi-Agent AI Market Intelligence Platform
+An enterprise-style AI intelligence platform leveraging LangGraph, Google Gemini, FastAPI, React, PostgreSQL, and ChromaDB to automate market research workflows. The system employs multi-agent orchestration, Retrieval-Augmented Generation (RAG), semantic vector search, and structured AI analysis to transform large volumes of social and news data into actionable business insights. Features workflow automation, interactive dashboards, JWT authentication, observability with Prometheus & Grafana, MLflow experiment tracking, and full-stack Docker-based deployment.
+
+🔗 [GitHub Repository](https://github.com/TRITUSLegend/OpinionMap)
+
+---
+
+### 🏠 Smart Room IoT Dashboard
+An ESP32-based home automation simulation built using Wokwi, Firebase Realtime Database, and a live web dashboard. Features real-time temperature monitoring, motion-activated lighting, and remote fan control with Firebase-based syncing.
+
+🔗 [GitHub Repository](https://github.com/TRITUSLegend/smart-room-dashboard)  
+🔗 [Live Dashboard](https://trituslegend.github.io/smart-room-dashboard/)
 
 ---
 
